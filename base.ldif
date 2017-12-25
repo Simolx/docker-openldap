@@ -1,0 +1,5 @@
+dn: dc=baitu,dc=cn
+objectClass: dcObject
+objectClass: organization
+dc: baitu
+o: baitu
